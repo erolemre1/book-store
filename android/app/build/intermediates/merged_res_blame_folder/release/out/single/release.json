@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app.json.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\generated\\res\\react\\release\\raw\\app.json"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assents_arkaplan.jpg.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assents_arkaplan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_reducers_booklist.json.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_reducers_booklist.json"
+    },
+    {
+        "merged": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\emre\\Desktop\\kitap\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

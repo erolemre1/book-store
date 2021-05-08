@@ -1,0 +1,9 @@
+com/kitap/MainApplication.java
+ com.kitap.MainApplication
+ com.kitap.MainApplication$1
+com/kitap/MainActivity.java
+ com.kitap.MainActivity
+com/kitap/BuildConfig.java
+ com.kitap.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
