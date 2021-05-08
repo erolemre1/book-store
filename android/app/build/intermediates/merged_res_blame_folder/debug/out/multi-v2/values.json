@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\emreg\\Desktop\\kitap1\\kitap\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\emreg\\Desktop\\book\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\emreg\\Desktop\\kitap1\\kitap\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "source": "C:\\Users\\emreg\\Desktop\\book\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "42",
+                        "endOffsets": "54"
+                    },
+                    "to": {
+                        "startLines": "293",
+                        "startColumns": "4",
+                        "startOffsets": "19072",
+                        "endColumns": "42",
+                        "endOffsets": "19110"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\emreg\\Desktop\\book\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
                     "from": {
                         "startLines": "6,8",
                         "startColumns": "4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\emreg\\Desktop\\kitap1\\kitap\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\emreg\\Desktop\\book\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -149,23 +166,6 @@
                         "startOffsets": "15578,15647",
                         "endColumns": "68,56",
                         "endOffsets": "15642,15699"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\emreg\\Desktop\\kitap1\\kitap\\android\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "42",
-                        "endOffsets": "54"
-                    },
-                    "to": {
-                        "startLines": "293",
-                        "startColumns": "4",
-                        "startOffsets": "19072",
-                        "endColumns": "42",
-                        "endOffsets": "19110"
                     }
                 }
             ]
